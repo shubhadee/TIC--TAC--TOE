@@ -20,3 +20,10 @@ This project is a simple **Tic-Tac-Toe** game implemented in C++. It is a text-b
 1. Clone this repository to your local machine.
 2. Compile the source code using any C++ compiler:
 
+## OUTPUT
+![Screenshot 2024-12-23 183838](https://github.com/user-attachments/assets/2e3f90ff-88de-4f12-b203-d976533287bc)
+![image](https://github.com/user-attachments/assets/070d529d-d0a5-4c91-9a09-7468a5b58afc)
+![image](https://github.com/user-attachments/assets/6062c4a7-47fb-44a3-a28e-b7ccfcdc0a85)
+
+
+
